@@ -1,5 +1,5 @@
 # java-number-patterns-
-i create java number patterns 
+ 
 class Main
  {
     public static void main(String[] args) {
